@@ -1,6 +1,6 @@
 # Maximum of three numbers
 list = list()
 for i in range(3):
-    list.append(int(input(“Introduce a number: ”)))
+    list.append(int(input("Introduce a number: ")))
 list.sort()
-print(“Maximum is: ”, lista[len(lista) – 1])
+print("Maximum is: ", list[len(list) – 1])
